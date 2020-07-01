@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1911" height="1356" viewBox="0 0 1911 1356">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_70" data-name="Rectangle 70" width="1911" height="1356" transform="translate(0 3719)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f8979a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.086" y1="0.129" x2="0.572" y2="0.93" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fefafa"/>
+      <stop offset="1" stop-color="#fd5154"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.392" y1="0.984" x2="0.445" y2="0.516" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffaeb2"/>
+      <stop offset="1" stop-color="#dc3c3f"/>
+    </linearGradient>
+  </defs>
+  <g id="footerBg" transform="translate(0 -3719)" clip-path="url(#clip-path)">
+    <g id="footerBg-2" data-name="footerBg">
+      <rect id="Rectangle_52" data-name="Rectangle 52" width="1920" height="1244" transform="translate(0 3772)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_53" data-name="Rectangle 53" width="565" height="538" transform="translate(1546 4614)" fill="#f24043"/>
+      <path id="Path_290" data-name="Path 290" d="M256.252-28.47,2134.779,15.014c82.843,0,128.447,169.857,128.447,252.7l-321.7,936.507c0,82.843,139.321,210.78,56.478,210.78H150A150,150,0,0,1,0,1265V150C0,67.157,173.409-28.47,256.252-28.47Z" transform="matrix(0.966, 0.259, -0.259, 0.966, -139.485, 3746.643)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_292" data-name="Path 292" d="M349.514,2159.838c4.379-2.784,899.887-62.65,899.887-62.65,55.229,0,489.6-242.628,489.6-307.469V410.209c0-64.841-44.771-117.405-100-117.405L712.7.309C657.474.309,313.335,325.661,313.335,390.5l-162.815,1578C147.91,2064.227,226.448,2165,349.514,2159.838Z" transform="translate(1910.608 5861.518) rotate(150)" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>
